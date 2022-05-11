@@ -1,0 +1,48 @@
+
+body{
+  margin: 0;
+}
+
+
+.intro{
+  height: 350px;
+  width: :100%;
+  background-color: #97C4B8;
+}
+
+.code-img{
+  width: 30%;
+  position:absolute;
+  left:20px;
+  top: 10px;
+}
+
+
+.link-skills{
+  text-decoration: none;
+  display: inline-block;
+  position:absolute;
+  right:300px;
+  top: 50px;
+  
+
+}
+
+.link-hire{
+  text-decoration: none;
+  display: inline-block;
+  position:  absolute;
+  right:400px;
+  top: 50px
+}
+
+
+.main-heading{
+  margin: 0;
+  font-family: 'Caveat', cursive;
+  font-size: 70px;
+  color:#F5F5F5;
+  position: absolute;
+  right: 350px;
+  top: 170px;
+}
