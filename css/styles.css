@@ -1,64 +1,54 @@
-
-body{
+body {
   margin: 0;
 }
 
-
-.intro{
+.intro {
   height: 350px;
   width: :100%;
-  background-color: #97C4B8;
+  background-image:url("../images/darkness.webp");
+
 }
 
-.code-img{
+.code-img {
   width: 30%;
-  position:absolute;
-  left:20px;
-  top: 70px;
+  position: absolute;
+  left: 20px;
+  top: 71px;
 }
 
-
-.link-Contact{
+.link-Contact {
   text-decoration: none;
   color: #F2F2F2;
-  display: inline-block;
   font-size: 1.5rem;
   font-family: 'Caveat', cursive;
-  position:absolute;
-  right:300px;
+  position: absolute;
+  right: 300px;
   top: 50px;
-
-
 }
 
-.link-Who{
+.link-Who {
   text-decoration: none;
   color: #F2F2F2;
   font-size: 1.5rem;
-    font-family: 'Caveat', cursive;
-  position:absolute;
-  right:450px;
+  font-family: 'Caveat', cursive;
+  position: absolute;
+  right: 450px;
   top: 50px
 }
 
-.links{
-  position:relative;
-  left: 0px;
+a:hover {
+  color: #FFFFFF;
+  text-shadow: 3px 8px 25px #FFFFFF;
 }
 
-a:hover{
-background-color: #16003B;
-  /* text-shadow: 3px , 3px , 7px, #16003B; */
-}
-
-
-.main-heading{
+.main-heading {
   margin: 0;
   font-family: 'Caveat', cursive;
   font-size: 70px;
-  color:#F5F5F5;
+  color: #F5F5F5;
   word-spacing: 10px;
   position: absolute;
   right: 350px;
   top: 170px;
+  text-shadow: 2px 2px 5px #FFFFFF;
 }
